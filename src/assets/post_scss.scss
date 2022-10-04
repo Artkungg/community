@@ -1,0 +1,37 @@
+.open-modal{
+    background-color: #D9D9D9;
+    border: 2px solid #D9D9D9;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: left;
+    width: 100%;
+}
+
+.image-upload>input {
+    display: none;
+}
+
+.set-x-button {
+    position: relative;
+}
+  
+.set-x-button .preview-multi-image {
+    width: 100%;
+    height: auto;
+}
+
+.set-x-button .btn {
+    position: absolute;
+    right: 0%;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.set-x-button .btn:hover {
+    background-color: black;
+}

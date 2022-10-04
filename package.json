@@ -7,9 +7,28 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "@popperjs/core": "^2.11.6",
+    "@tiptap/extension-color": "^2.0.0-beta.195",
+    "@tiptap/extension-document": "^2.0.0-beta.195",
+    "@tiptap/extension-paragraph": "^2.0.0-beta.195",
+    "@tiptap/extension-placeholder": "^2.0.0-beta.195",
+    "@tiptap/extension-text-align": "^2.0.0-beta.195",
+    "@tiptap/extension-text-style": "^2.0.0-beta.195",
+    "@tiptap/starter-kit": "^2.0.0-beta.195",
+    "@tiptap/vue-3": "^2.0.0-beta.195",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
     "core-js": "^3.8.3",
+    "fslightbox-vue": "^2.0.1",
     "vue": "^3.2.13",
+    "vue-axios": "^3.4.1",
     "vue-router": "^4.0.3",
+    "vueperslides": "^3.4.2",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

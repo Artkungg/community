@@ -35,3 +35,17 @@
 .set-x-button .btn:hover {
     background-color: black;
 }
+
+.carousel__item{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel__prev,
+.carousel__next {
+  box-sizing: content-box;
+//   border: 5px solid white;
+}

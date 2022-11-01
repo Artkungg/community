@@ -31,7 +31,7 @@
                             <label>Add to your post</label>
                         </div>
                         <div class="col-sm-6">
-                            <div class="image-upload">
+                            <div class="image-upload" data-bs-toggle="tooltip" data-bs-placement="top" title="Image">
                                 <label for="file-input">
                                     <font-awesome-icon icon="fa-solid fa-image" size="lg" style="cursor: pointer;" />
                                 </label>
